@@ -1,0 +1,51 @@
+.orders-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.orders-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #c82333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.orders-icon {
+    font-size: 1.8rem;
+    color: #c82333;
+}
+
+.loading {
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.no-orders {
+    font-size: 1.2rem;
+    color: #666;
+}
+
+.orders-list {
+    list-style: none;
+    padding: 0;
+}
+
+.order-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    text-align: left;
+    transition: background 0.3s ease;
+}
+
+.order-item:hover {
+    background-color: #f2f2f2;
+}

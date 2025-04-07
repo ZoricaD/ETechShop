@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.etechshop.LibraryReservationSystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.575 s -- in com.example.etechshop.LibraryReservationSystemApplicationTests
